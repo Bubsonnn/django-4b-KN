@@ -1,6 +1,6 @@
 body {
     background: white url("images/background.png") no-repeat center center;
-    background-size: cover; /* Rozszerza obraz, aby pokryć całe tło */
+    background-size: cover;
 }
 
 h1 {
@@ -33,5 +33,5 @@ footer {
     background-color: #333;
     color: white;
     text-align: center;
-    line-height: 50px; /* wyśrodkowanie tekstu w pionie */
+    line-height: 50px;
 }
